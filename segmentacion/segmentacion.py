@@ -45,8 +45,10 @@ def a_uint8(x):
 # Preprocesamiento
 # ----------------------------------------------------------------------
 def kernel_gaussiano(sigma):
-    """Kernel 1D gaussiano normalizado, de tamaño 2*ceil(3*sigma)+1."""
-    r = int(np.ceil(3 * sigma))
+    """Kernel 1D gaussiano normalizado. Tamaño n = entero impar más pequeño >= 6*sigma."""
+    n = int(np.ceil(6 * sigma))
+    n += 1 - n % 2
+    r = (n - 1) // 2
     x = np.arange(-r, r + 1, dtype=float)
     k = np.exp(-(x**2) / (2 * sigma**2))
     return k / k.sum()
@@ -141,7 +143,7 @@ def canny(gris, sigma=1.5, bajo=0.10, alto=0.25, devolver_etapas=False):
 # ----------------------------------------------------------------------
 # Umbralización
 # ----------------------------------------------------------------------
-def umbral_global(img_u8, eps=0.5, T0=None):
+def umbral_global(img_u8, eps=0.1, T0=None):
     """Umbralización global iterativa: T = (m1 + m2) / 2 hasta que el cambio sea < eps."""
     T = float(img_u8.mean()) if T0 is None else float(T0)
     for _ in range(200):
@@ -230,7 +232,7 @@ def segmentar_kmeans(rgb, k=3, espacio="rgb", semilla=0):
 # De segmentación a "máscara de hoja"
 # ----------------------------------------------------------------------
 def banda_borde(forma, ancho=6):
-    """Máscara booleana con el marco exterior de la imagen (se asume que ahí hay fondo)."""
+    """Máscara booleana con el marco exterior de la imagen."""
     m = np.zeros(forma, bool)
     m[:ancho, :] = m[-ancho:, :] = True
     m[:, :ancho] = m[:, -ancho:] = True
@@ -255,7 +257,7 @@ def mascara_hoja_por_kmeans(etiquetas, k):
 
 
 def limpiar_mascara(mascara, n=5):
-    """Filtro de mediana sobre la máscara binaria (técnica del curso en lugar de morfología)."""
+    """Filtro de mediana sobre la máscara binaria."""
     return ndi.median_filter(mascara.astype(np.uint8), size=n, mode="nearest").astype(
         bool
     )
