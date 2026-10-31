@@ -1,0 +1,305 @@
+archivo,categoria,tipo,eta_gris,eta_sat,iou_gs,iou_sk,frag,hoja_marco,area_hoja,tipo_nuevo
+d8aeb323-17d2-4123-9988-3c2346558bc6___FREC_Scab 2996_90deg.JPG,Apple___Apple_scab,3,0.694,0.842,0.873,0.567,0.95,17.533,44.756,3
+6a006aa9-a9f2-4269-9fd9-7a879f01faf1___FREC_Scab 3117_270deg.JPG,Apple___Apple_scab,2,0.584,0.716,0.769,0.808,0.986,6.1,46.082,2
+c27b45af-c362-4d37-ab5b-ee197a3670de___FREC_Scab 3521_new30degFlipLR.JPG,Apple___Apple_scab,3,0.76,0.63,0.116,0.281,0.849,17.683,30.725,3
+e8f5c962-6f40-443e-9913-5a43b5f2ef07___FREC_Scab 3191.JPG,Apple___Apple_scab,3,0.732,0.602,0.607,0.604,0.511,42.083,55.254,3
+71c26585-883f-41e9-939c-5f1683cdf4ed___FREC_Scab 3302_270deg.JPG,Apple___Apple_scab,3,0.784,0.84,0.823,0.53,0.974,12.2,32.431,3
+0a769a71-052a-4f19-a4d8-b0f0cb75541c___FREC_Scab 3165_new30degFlipLR.JPG,Apple___Apple_scab,3,0.831,0.676,0.218,0.224,0.553,10.717,29.855,3
+47b3d8bb-2461-4593-a0fe-a6adf0925a9a___FREC_Scab 2974_new30degFlipLR.JPG,Apple___Apple_scab,3,0.881,0.613,0.331,0.33,0.702,23.317,31.859,3
+fa9c1112-27fc-42db-930d-7e4956267ab5___FREC_Scab 3174_270deg.JPG,Apple___Apple_scab,2,0.703,0.782,0.599,0.669,0.973,4.817,26.123,2
+85e5214e-2998-49c7-bdb9-ee8122387704___JR_FrgE.S 8691_90deg.JPG,Apple___Black_rot,1,0.834,0.725,0.672,0.669,0.982,5.0,26.529,2
+7f1f4f8b-86cc-4cc5-bb70-8b1653cea8ae___JR_FrgE.S 8649_new30degFlipLR.JPG,Apple___Black_rot,3,0.663,0.629,0.005,0.044,0.313,15.367,12.584,3
+6ce1eb43-e41c-4eb0-9440-db5a955ab7b6___JR_FrgE.S 2919.JPG,Apple___Black_rot,3,0.699,0.744,0.64,0.406,0.521,2.067,20.781,3
+f4f0b458-01c4-48ad-a600-fe3e7fb47b36___JR_FrgE.S 8730_new30degFlipLR.JPG,Apple___Black_rot,3,0.757,0.735,0.151,0.292,0.886,10.4,32.719,3
+d3dab897-b9de-4ec4-a335-db2f36a64011___JR_FrgE.S 2918_new30degFlipLR.JPG,Apple___Black_rot,2,0.775,0.693,0.349,0.349,0.858,9.133,34.296,2
+e0ee140b-d60c-4b08-ae6f-e44c5c31fbc8___JR_FrgE.S 2817.JPG,Apple___Black_rot,3,0.767,0.748,0.617,0.338,0.782,0.283,17.546,3
+5386aabe-1e7f-4688-ac5e-ade0e91318d4___JR_FrgE.S 8638_270deg.JPG,Apple___Black_rot,1,0.808,0.784,0.829,0.836,0.968,4.633,48.047,1
+ff4e792b-14c5-41db-af9e-0676abf8d20a___JR_FrgE.S 3088_90deg.JPG,Apple___Black_rot,2,0.551,0.805,0.61,0.85,0.992,4.267,47.133,2
+91c6f875-414d-4449-937c-488718a84921___FREC_C.Rust 3756.JPG,Apple___Cedar_apple_rust,1,0.785,0.886,0.654,0.694,1.0,0.0,52.684,2
+78821840-5d27-43ae-b830-c54e9f84432d___FREC_C.Rust 9891_180deg.JPG,Apple___Cedar_apple_rust,2,0.595,0.828,0.402,0.305,0.995,0.0,19.652,2
+ad8d7957-d361-44cd-ab49-f58e23870614___FREC_C.Rust 0110_newGRR.JPG,Apple___Cedar_apple_rust,2,0.667,0.903,0.565,0.596,0.998,0.0,42.87,2
+46b6b57e-9c90-4de7-9fb1-b8b674d51f38___FREC_C.Rust 9857_90deg.JPG,Apple___Cedar_apple_rust,2,0.717,0.816,0.449,0.514,0.978,4.467,31.393,2
+96bec7bd-9c12-4284-a298-d20379abb4a2___FREC_C.Rust 3815_180deg.JPG,Apple___Cedar_apple_rust,2,0.771,0.849,0.455,0.567,0.999,0.0,33.319,2
+3590e70d-8ab1-453d-ae81-0f77bdda3f60___FREC_C.Rust 3824_newPixel25.JPG,Apple___Cedar_apple_rust,3,0.716,0.75,0.147,0.669,0.614,0.0,19.205,3
+5b047b56-77e8-4bbd-8b5c-7c72821b50f0___FREC_C.Rust 0101_new30degFlipTB.JPG,Apple___Cedar_apple_rust,2,0.878,0.848,0.514,0.514,0.967,6.55,45.72,2
+3762c9a3-83db-44b7-88be-07c048ad293b___FREC_C.Rust 9945_90deg.JPG,Apple___Cedar_apple_rust,1,0.734,0.865,0.792,0.852,0.989,4.267,36.424,1
+d182b332-f33a-4ea1-aa3c-51ef7f01efd5___RS_HL 6137_flipTB.JPG,Apple___healthy,1,0.882,0.938,0.914,0.614,1.0,0.0,40.024,1
+18873cb4-cf30-414d-9ffd-c965879d84b1___RS_HL 6239.JPG,Apple___healthy,1,0.802,0.919,0.829,0.57,0.998,0.0,36.38,1
+b68238fa-2e01-43b2-bf8c-0e9d38848b02___RS_HL 6289_flipTB.JPG,Apple___healthy,1,0.704,0.886,0.729,0.789,1.0,0.0,51.064,1
+d76e79e5-2cd5-4a03-9354-5759b2741210___RS_HL 7980_flipTB.JPG,Apple___healthy,3,0.77,0.713,0.0,0.184,0.997,40.833,47.383,3
+456779f4-b7a7-4980-94ee-1798491ca888___RS_HL 7415.JPG,Apple___healthy,1,0.716,0.699,0.638,0.411,0.93,1.017,27.962,2
+f03b4260-bf5c-41be-a4fe-96a5c341e7fc___RS_HL 7262.JPG,Apple___healthy,3,0.939,0.85,0.729,0.725,0.998,13.083,39.124,3
+a1867bda-d965-4389-8a19-ed13c82df5f6___RS_HL 7655.JPG,Apple___healthy,3,0.713,0.536,0.29,0.49,0.628,34.333,33.885,3
+c6d8dca1-8921-4f81-aebe-90a692636b5a___RS_HL 7795_flipTB.JPG,Apple___healthy,1,0.709,0.667,0.805,0.377,0.938,0.0,29.652,1
+e2ecdcb8-43cd-4819-8493-bf9c228d94f8___RS_HL 0637.JPG,Blueberry___healthy,2,0.733,0.772,0.572,0.55,0.991,0.0,20.708,2
+880094ff-fec2-4b91-968e-20f89ea130a4___RS_HL 4961.JPG,Blueberry___healthy,2,0.618,0.841,0.006,0.243,0.967,0.0,15.718,2
+1be6c1d9-6c8f-44c7-9084-f79ac0764091___RS_HL 0767_new30degFlipLR.JPG,Blueberry___healthy,2,0.864,0.784,0.052,0.16,0.82,7.35,22.966,2
+3b42b861-22cd-4c5b-acc3-a4196a5d8baa___RS_HL 5503_flipTB.JPG,Blueberry___healthy,1,0.728,0.792,0.772,0.364,0.965,1.333,23.836,1
+102e8eb8-0170-454b-bbcf-75b0e0871296___RS_HL 5148.JPG,Blueberry___healthy,1,0.755,0.821,0.757,0.502,1.0,3.3,38.315,1
+bf9d41dd-cd9b-4277-9c8c-af5860b00615___RS_HL 5442.JPG,Blueberry___healthy,1,0.767,0.869,0.798,0.451,0.943,0.0,29.63,1
+0d7d3829-d9be-44c4-8407-ff13b52f5c43___RS_HL 5098_new30degFlipLR.JPG,Blueberry___healthy,2,0.707,0.895,0.05,0.507,0.939,6.633,47.191,2
+f2c86563-b3a7-47e1-8e05-8ea012885490___RS_HL 0343.JPG,Blueberry___healthy,1,0.805,0.86,0.674,0.9,1.0,0.0,30.974,2
+dbd81452-171b-4aa4-a911-e7908687f06c___FREC_Pwd.M 5049.JPG,Cherry_(including_sour)___Powdery_mildew,2,0.637,0.561,0.647,0.423,0.974,0.567,33.026,2
+66175365-07ce-4b17-af32-5eb54e2266b5___FREC_Pwd.M 4853.JPG,Cherry_(including_sour)___Powdery_mildew,2,0.636,0.796,0.306,0.367,1.0,0.067,27.374,2
+9874295e-fe0f-4408-88b0-0402a272041a___FREC_Pwd.M 0292.JPG,Cherry_(including_sour)___Powdery_mildew,1,0.718,0.782,0.796,0.791,0.996,3.067,48.946,1
+b4d8a3ca-dd23-499c-bb76-d8b94ab59a47___FREC_Pwd.M 4767_flipLR.JPG,Cherry_(including_sour)___Powdery_mildew,2,0.612,0.875,0.453,0.857,1.0,0.217,42.102,2
+21c25748-40c8-4d89-82fb-45c0607b2bd1___FREC_Pwd.M 4890.JPG,Cherry_(including_sour)___Powdery_mildew,2,0.694,0.919,0.04,0.475,1.0,1.6,32.979,2
+6f1c8a5e-7df4-46cf-9cbf-3f5588512393___FREC_Pwd.M 0564.JPG,Cherry_(including_sour)___Powdery_mildew,2,0.698,0.835,0.449,0.656,0.993,1.2,49.947,2
+8a3e2835-651b-4e81-8f39-60ac46db2962___FREC_Pwd.M 4897_flipLR.JPG,Cherry_(including_sour)___Powdery_mildew,2,0.724,0.905,0.399,0.608,1.0,1.75,48.122,2
+62104eb2-475c-47c3-9ed8-a1ea990b5c72___FREC_Pwd.M 5016_flipLR.JPG,Cherry_(including_sour)___Powdery_mildew,2,0.727,0.795,0.15,0.349,0.998,0.533,33.896,2
+bbf73155-4f12-41a1-b087-38b078e646a1___JR_HL 9592_180deg.JPG,Cherry_(including_sour)___healthy,1,0.887,0.874,0.925,0.948,1.0,0.183,28.642,1
+c36d1d7a-7e76-4be2-a637-e544f8210db8___JR_HL 9680_flipTB.JPG,Cherry_(including_sour)___healthy,3,0.882,0.918,0.967,0.97,0.949,10.45,44.716,3
+418fb46a-4ace-4f51-b85b-a3885275fe96___JR_HL 9837_180deg.JPG,Cherry_(including_sour)___healthy,1,0.889,0.921,0.89,0.926,1.0,0.75,47.136,1
+ac896cd9-60ec-4d64-a4c6-fc9b3d8f1ca9___JR_HL 9884.JPG,Cherry_(including_sour)___healthy,1,0.893,0.912,0.955,0.966,0.996,1.617,39.742,1
+988cce2b-7897-489d-b796-9a170e815785___JR_HL 9550_flipTB.JPG,Cherry_(including_sour)___healthy,1,0.884,0.905,0.963,0.978,1.0,1.05,47.183,1
+9085e422-36a7-44fc-958b-5212f8a29c79___JR_HL 4173_flipTB.JPG,Cherry_(including_sour)___healthy,1,0.84,0.804,0.976,0.977,0.983,8.933,52.888,1
+f9905e57-5799-4122-9626-d2e575e60389___JR_HL 9743.JPG,Cherry_(including_sour)___healthy,1,0.888,0.95,0.979,0.98,1.0,1.45,49.376,1
+a433544e-7479-4587-82c7-5fdb07f37e59___JR_HL 4203_180deg.JPG,Cherry_(including_sour)___healthy,1,0.814,0.82,0.961,0.96,1.0,2.5,44.868,1
+5cbbb4b8-88cc-4d5f-907a-505a2a831b8a___RS_GLSp 4599_270deg.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,3,0.668,0.772,0.312,0.453,1.0,27.667,57.487,3
+150ed8d9-abf5-4811-b976-8878b2d0048d___RS_GLSp 7321_90deg.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,3,0.633,0.661,0.032,0.506,0.577,32.3,47.435,3
+b3a3ae35-860d-4d65-af43-faa13c3d2834___RS_GLSp 9272_new30degFlipLR.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,3,0.59,0.719,0.639,0.64,0.987,24.7,58.957,3
+05daf90f-9100-499f-a4aa-ebc5dfc20adf___RS_GLSp 7335_90deg.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,3,0.755,0.714,0.714,0.602,0.935,18.883,39.946,3
+22177231-7c14-423d-a83c-78a63c2dfd9a___RS_GLSp 9286_90deg.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,3,0.59,0.727,0.087,0.33,0.538,19.817,40.871,3
+e50fa094-ce6d-475b-91e7-55266a2677ac___RS_GLSp 4379 copy_270deg.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,3,0.666,0.621,0.475,0.473,0.701,13.533,41.275,3
+89a78c7f-dac6-426f-a0ad-397ce80e7a29___RS_GLSp 4289 copy 2_new30degFlipLR.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,3,0.604,0.638,0.482,0.7,0.653,40.583,65.263,3
+e2199152-0f4e-44bf-8edd-4c4392494b8b___RS_GLSp 4578.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,3,0.741,0.762,0.072,0.276,0.771,45.2,61.598,3
+RS_Rust 2635_flipLR.JPG,Corn_(maize)___Common_rust_,3,0.849,0.655,0.078,0.11,0.627,13.667,14.145,3
+RS_Rust 2582_flipLR.JPG,Corn_(maize)___Common_rust_,3,0.929,0.592,0.435,0.436,0.975,11.417,35.341,3
+RS_Rust 2434.JPG,Corn_(maize)___Common_rust_,2,0.922,0.77,0.384,0.385,0.917,3.633,29.018,2
+RS_Rust 2373_flipLR.JPG,Corn_(maize)___Common_rust_,3,0.895,0.936,0.788,0.797,1.0,17.767,53.749,3
+RS_Rust 1564.JPG,Corn_(maize)___Common_rust_,3,0.93,0.611,0.077,0.082,0.59,10.883,12.761,3
+RS_Rust 2355_flipLR.JPG,Corn_(maize)___Common_rust_,3,0.74,0.474,0.087,0.092,0.39,29.867,16.82,3
+RS_Rust 2202_flipLR.JPG,Corn_(maize)___Common_rust_,3,0.942,0.703,0.423,0.423,0.903,14.333,31.479,3
+RS_Rust 2640_flipLR.JPG,Corn_(maize)___Common_rust_,3,0.951,0.691,0.0,0.0,0.239,16.3,9.312,3
+f06ca1ec-25c8-4d0f-ae7c-6bb0ffb7e0b0___RS_NLB 3584_flipTB.JPG,Corn_(maize)___Northern_Leaf_Blight,3,0.627,0.602,0.447,0.504,0.917,22.65,32.823,3
+6c8c49d0-1730-4829-aa21-ccff3079881e___RS_NLB 3540.JPG,Corn_(maize)___Northern_Leaf_Blight,3,0.648,0.649,0.02,0.512,0.651,28.083,37.46,3
+53cd35a7-f989-4813-9c79-a3af9d175b90___RS_NLB 0758_flipTB.JPG,Corn_(maize)___Northern_Leaf_Blight,3,0.712,0.773,0.046,0.402,0.996,19.267,49.377,3
+d40ae12e-eb1f-405e-b266-8a9970f4cd75___RS_NLB 3874_flipTB.JPG,Corn_(maize)___Northern_Leaf_Blight,3,0.725,0.779,0.724,0.539,1.0,26.667,47.69,3
+699c9da1-1968-469b-aab5-35b9856c04b4___RS_NLB 3776.JPG,Corn_(maize)___Northern_Leaf_Blight,3,0.662,0.831,0.506,0.27,1.0,38.133,47.688,3
+cff04564-1693-49ef-b5c0-6bbe4ff92d6b___RS_NLB 3475_180deg.JPG,Corn_(maize)___Northern_Leaf_Blight,3,0.809,0.741,0.697,0.631,0.961,11.933,33.087,3
+f0b49686-1a0f-4c01-9b60-e816c513215f___RS_NLB  4506 copy.jpg,Corn_(maize)___Northern_Leaf_Blight,3,0.748,0.767,0.399,0.579,1.0,36.133,47.989,3
+180b911a-5c9f-4c76-972a-999e81d3b772___RS_NLB 3710_180deg.JPG,Corn_(maize)___Northern_Leaf_Blight,3,0.628,0.711,0.006,0.275,0.949,15.167,15.536,3
+2f556be0-6966-4d51-a4b6-8931c0cba916___R.S_HL 8217 copy 2_flipLR.jpg,Corn_(maize)___healthy,2,0.582,0.551,0.842,0.237,0.999,7.183,8.754,2
+9eb04276-feae-45fe-815d-9c64ff452827___R.S_HL 8006 copy 2.jpg,Corn_(maize)___healthy,3,0.622,0.705,0.689,0.677,0.992,14.283,47.6,3
+3a668261-388a-45c1-8a8e-584cb3966bf0___R.S_HL 8071 copy_flipLR.jpg,Corn_(maize)___healthy,3,0.516,0.611,0.026,0.51,0.532,46.633,41.231,3
+3ed3e07e-1932-4c33-9613-d31af970986c___R.S_HL 7973 copy_flipLR.jpg,Corn_(maize)___healthy,3,0.649,0.719,0.85,0.559,0.99,44.6,67.253,3
+e1059625-eff1-402f-87e0-01ed187dc8b6___R.S_HL 8185 copy 3.jpg,Corn_(maize)___healthy,3,0.585,0.572,0.675,0.421,0.985,25.35,25.151,3
+235b7976-4626-4244-9ed9-add8dc171ee9___R.S_HL 8196 copy.jpg,Corn_(maize)___healthy,3,0.806,0.809,0.872,0.001,0.999,38.15,28.258,3
+e07b298d-7dff-4297-a884-06c20a77e453___R.S_HL 5503 copy 2_flipLR.jpg,Corn_(maize)___healthy,3,0.629,0.691,0.562,0.919,0.998,33.2,65.581,3
+97433b9f-77bb-4279-b9d2-7b7bd6e12f5d___R.S_HL 7941 copy 2.jpg,Corn_(maize)___healthy,3,0.68,0.791,0.011,0.063,0.965,49.9,45.34,3
+80ad3b4f-6439-4cbe-b300-8c2dd7b65c70___FAM_B.Rot 3428.JPG,Grape___Black_rot,1,0.809,0.818,0.799,0.487,0.994,0.0,28.392,1
+19fb3c5f-8c99-40da-96b0-4b66e0f87f04___FAM_B.Rot 3072_flipLR.JPG,Grape___Black_rot,1,0.719,0.75,0.704,0.695,0.991,5.7,48.032,1
+15c4e53d-7eb2-4a69-8060-81bfd6ccc4a3___FAM_B.Rot 3610.JPG,Grape___Black_rot,2,0.762,0.789,0.591,0.567,0.996,0.0,35.303,2
+597cb459-6d10-4b4c-b927-c7808cd370a6___FAM_B.Rot 0395.JPG,Grape___Black_rot,3,0.799,0.772,0.75,0.682,0.903,11.433,35.657,3
+f075d48a-3ed3-4e9e-afd0-c0db4c15a39f___FAM_B.Rot 3572.JPG,Grape___Black_rot,1,0.808,0.793,0.84,0.6,0.999,0.05,38.249,1
+908b3c9f-a97d-4cfb-bccd-ad992160b425___FAM_B.Rot 0337.JPG,Grape___Black_rot,2,0.759,0.775,0.562,0.279,0.978,0.0,20.702,2
+8c2374fd-2ad8-4f94-8634-9adfc9933444___FAM_B.Rot 0543_flipLR.JPG,Grape___Black_rot,1,0.664,0.881,0.677,0.938,1.0,0.017,54.225,2
+1e24a20d-3dbf-42fe-b3ee-0a1281a92159___FAM_B.Rot 0636.JPG,Grape___Black_rot,1,0.762,0.839,0.8,0.508,0.997,0.517,37.904,1
+59b4d677-d0b2-4e06-ad32-584ed9b3e682___FAM_B.Msls 4028_flipLR.JPG,Grape___Esca_(Black_Measles),1,0.851,0.858,0.842,0.824,0.993,0.0,35.181,1
+a6e88cc9-9869-40b9-a6a1-8b79648fff0b___FAM_B.Msls 1228.JPG,Grape___Esca_(Black_Measles),1,0.817,0.812,0.726,0.657,0.951,0.0,37.691,1
+5840aef4-4049-49c6-9695-1d98b9944095___FAM_B.Msls 0988.JPG,Grape___Esca_(Black_Measles),3,0.824,0.799,0.688,0.549,0.796,0.0,26.369,3
+c88bd1a0-a0fa-474a-981d-da10a72930ae___FAM_B.Msls 1029.JPG,Grape___Esca_(Black_Measles),1,0.849,0.817,0.81,0.764,0.993,0.0,38.765,1
+287bbc00-a2c8-4ed1-9459-abc7cde879d6___FAM_B.Msls 1262.JPG,Grape___Esca_(Black_Measles),1,0.879,0.85,0.839,0.805,0.998,0.0,39.363,1
+a4db3b91-b939-49f1-8a2e-977f7a99e316___FAM_B.Msls 3968_flipLR.JPG,Grape___Esca_(Black_Measles),1,0.739,0.833,0.831,0.509,0.94,0.633,35.287,1
+65406222-97ef-4ce4-9bbc-5ef3476a559b___FAM_B.Msls 3828.JPG,Grape___Esca_(Black_Measles),3,0.799,0.777,0.756,0.685,0.745,0.4,37.149,3
+e4b39784-a3a9-4c27-b265-03a3f30e04ef___FAM_B.Msls 1818_flipLR.JPG,Grape___Esca_(Black_Measles),1,0.827,0.799,0.84,0.628,0.996,6.883,44.046,1
+a806930f-9bee-4c5b-b354-bbfb2b633790___FAM_L.Blight 3666_flipLR.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),1,0.72,0.826,0.677,0.714,0.998,0.0,51.019,2
+3b8a92d2-4975-4fb7-b411-fb33e3a4feca___FAM_L.Blight 1580.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),2,0.637,0.832,0.468,0.943,1.0,2.383,61.002,2
+f202b47d-694f-4924-bb01-752593b736d9___FAM_L.Blight 4538_flipLR.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),2,0.684,0.791,0.287,0.932,1.0,1.867,65.106,2
+bb5185be-3f35-4d1c-95a9-70e0486948f9___FAM_L.Blight 3741_flipLR.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),2,0.689,0.822,0.44,0.877,1.0,0.05,53.748,2
+a9f431ae-3982-48bb-a6c6-82194562dcb0___FAM_L.Blight 3692.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),1,0.678,0.91,0.783,0.945,1.0,1.933,60.32,1
+b6956458-10b4-4f81-8e72-dfa933e3adae___FAM_L.Blight 1447.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),2,0.66,0.822,0.586,0.907,1.0,0.0,57.333,2
+57f4032d-d8f1-42e9-b133-c4b07f3dedcc___FAM_L.Blight 1545_flipLR.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),1,0.689,0.825,0.666,0.731,0.998,0.133,54.092,2
+8869980a-bc1d-415b-a69b-ef2373976f64___FAM_L.Blight 1632.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),2,0.632,0.812,0.6,0.941,0.999,4.5,60.046,2
+18db578d-ab6c-4469-8e07-01d8c211a91f___Mt.N.V_HL 8983.JPG,Grape___healthy,1,0.739,0.714,0.917,0.928,1.0,0.0,49.59,1
+b2e93b6f-8a63-43f7-9305-dbad31dceda6___Mt.N.V_HL 9064_new30degFlipLR.JPG,Grape___healthy,3,0.643,0.752,0.549,0.578,0.942,13.717,54.912,3
+f7c74956-3e0c-4669-b313-bf6e4559a91d___Mt.N.V_HL 9086_180deg.JPG,Grape___healthy,1,0.803,0.869,0.972,0.973,1.0,0.1,49.364,1
+7330e0f7-bc32-4297-95e6-a92c0cee1050___Mt.N.V_HL 6131_180deg.JPG,Grape___healthy,1,0.858,0.891,0.987,0.988,1.0,0.067,48.894,1
+5fccb358-a1fd-4cdb-a9a8-da8b2a3e184c___Mt.N.V_HL 8954_180deg.JPG,Grape___healthy,1,0.761,0.929,0.84,0.687,1.0,0.0,48.256,1
+aca0406e-c5ec-421e-a265-3d88d13b3bef___Mt.N.V_HL 6182_270deg.JPG,Grape___healthy,1,0.853,0.816,0.949,0.95,0.992,4.267,50.702,1
+4b472308-dde6-41b2-943e-707eb5b4b050___Mt.N.V_HL 8942.JPG,Grape___healthy,1,0.707,0.767,0.952,0.961,1.0,0.0,59.132,1
+56eda055-bb22-4adf-b829-549c03804b9d___Mt.N.V_HL 6155.JPG,Grape___healthy,1,0.784,0.675,0.95,0.944,1.0,3.817,56.779,1
+93908d4f-09eb-4fb5-8076-4b7a45a6251d___CREC_HLB 4240.JPG,Orange___Haunglongbing_(Citrus_greening),1,0.82,0.89,0.908,0.934,1.0,0.0,55.399,1
+96197a9c-33c8-4183-ae6b-4993f2624392___CREC_HLB 7382.JPG,Orange___Haunglongbing_(Citrus_greening),2,0.708,0.784,0.476,0.402,0.995,0.967,22.832,2
+edf07401-cd18-4b45-ba11-30e0ec58f00c___CREC_HLB 5348.JPG,Orange___Haunglongbing_(Citrus_greening),1,0.745,0.845,0.707,0.792,0.999,0.0,42.009,1
+949572ca-910e-4006-8e3a-1d0b38ebb586___UF.Citrus_HLB_Lab 9898.JPG,Orange___Haunglongbing_(Citrus_greening),2,0.62,0.972,0.619,0.993,1.0,0.0,49.374,2
+19638325-bb6d-4124-a776-012310317eac___UF.Citrus_HLB_Lab 1386.JPG,Orange___Haunglongbing_(Citrus_greening),1,0.819,0.968,0.948,0.972,1.0,0.0,51.373,1
+d4670e46-b3de-4f59-b7da-28c085eed39e___UF.Citrus_HLB_Lab 9795.JPG,Orange___Haunglongbing_(Citrus_greening),1,0.662,0.964,0.781,0.895,1.0,0.0,53.966,1
+fff6769f-d570-4c43-8b75-dbff1d63f05f___UF.Citrus_HLB_Lab 0080.JPG,Orange___Haunglongbing_(Citrus_greening),2,0.589,0.927,0.324,0.981,1.0,0.0,50.404,2
+da79f51f-3fc1-4238-9270-dd71c44bfdc6___CREC_HLB 5235.JPG,Orange___Haunglongbing_(Citrus_greening),2,0.704,0.92,0.546,0.892,1.0,0.0,41.135,2
+48327829-0bde-4767-9063-2e7e9238e46b___Rutg._Bact.S 1161.JPG,Peach___Bacterial_spot,2,0.741,0.886,0.247,0.518,1.0,0.25,32.991,2
+8a5019d7-d58d-4079-91c4-d36123972762___Rutg._Bact.S 1780.JPG,Peach___Bacterial_spot,2,0.678,0.868,0.237,0.672,1.0,7.133,44.316,2
+12c33454-ebe5-482e-a960-16dc1ee7a711___Rut._Bact.S 0789.JPG,Peach___Bacterial_spot,2,0.722,0.726,0.437,0.394,0.997,2.617,26.967,2
+18ce719a-12b9-412b-8abb-fc1ad9b22d5e___Rut._Bact.S 1328.JPG,Peach___Bacterial_spot,2,0.782,0.923,0.393,0.342,1.0,0.0,23.428,2
+c20a6939-8bfd-42b6-bbcf-9a18e81c8583___Rut._Bact.S 3398.JPG,Peach___Bacterial_spot,3,0.624,0.753,0.707,0.312,0.99,21.7,43.494,3
+d75e2c63-6ab6-447c-8361-1d687e784e9a___Rutg._Bact.S 1203.JPG,Peach___Bacterial_spot,2,0.719,0.936,0.058,0.542,1.0,0.0,32.144,2
+24464f2d-c028-4dbd-8fe7-c783be987271___Rut._Bact.S 1029.JPG,Peach___Bacterial_spot,2,0.656,0.746,0.09,0.121,0.999,5.467,26.79,2
+faa76150-bb87-4b79-8ba5-f0bd9ea5e5be___Rutg._Bact.S 1547.JPG,Peach___Bacterial_spot,3,0.597,0.901,0.372,0.866,1.0,14.083,42.715,3
+2d3ac070-841f-434c-a316-7dae05c37b5e___Rutg._HL 3640_180deg.JPG,Peach___healthy,3,0.698,0.827,0.692,0.209,0.744,0.0,11.429,3
+06fdeacf-ac44-4af3-9541-25c77806b8e1___Rutg._HL 3549_90deg.JPG,Peach___healthy,1,0.823,0.824,0.686,0.318,0.947,4.617,13.785,2
+fe3bc54d-4164-4fea-a0bd-d96299ab3422___Rutg._HL 3578_180deg.JPG,Peach___healthy,3,0.84,0.829,0.616,0.318,0.366,2.0,14.894,3
+0eaf2faf-9731-461b-8166-2e616459eedc___Rutg._HL 2431_new30degFlipLR.JPG,Peach___healthy,3,0.88,0.783,0.0,0.005,0.436,12.117,10.88,3
+d375482a-7e27-4709-9f5f-2206378225af___Rutg._HL 2461_newPixel25.JPG,Peach___healthy,3,0.919,0.821,0.74,0.804,0.571,0.617,16.035,3
+f934836b-4a43-4970-968e-e0e3c000d448___Rutg._HL 2488.JPG,Peach___healthy,3,0.818,0.763,0.726,0.254,0.737,0.2,17.41,3
+9d4dab6a-9f3d-4824-9956-99895d9e0089___Rutg._HL 2483_270deg.JPG,Peach___healthy,2,0.764,0.784,0.454,0.277,0.903,4.4,14.168,2
+cef5544c-c878-436b-b689-4826e0621ae2___Rutg._HL 2484_180deg.JPG,Peach___healthy,3,0.786,0.779,0.693,0.227,0.427,0.75,12.253,3
+796c804e-6764-4497-8ded-dc7ac3f0112c___JR_B.Spot 9007.JPG,"Pepper,_bell___Bacterial_spot",1,0.782,0.747,0.701,0.714,0.97,0.05,41.283,1
+e7ec8fef-daec-4f8f-93b1-67d40ec68cae___JR_B.Spot 8850_180deg.JPG,"Pepper,_bell___Bacterial_spot",1,0.808,0.838,0.622,0.874,0.999,0.0,38.646,2
+cb6eba3e-5837-470a-b6cd-75721d7a5865___NREC_B.Spot 1806_flipTB.JPG,"Pepper,_bell___Bacterial_spot",3,0.794,0.74,0.825,0.868,1.0,16.317,53.18,3
+a3736622-1bd1-4e57-8aa0-2b8ed898c2a4___NREC_B.Spot 9095.JPG,"Pepper,_bell___Bacterial_spot",1,0.798,0.839,0.807,0.567,0.992,0.0,38.48,1
+5640520e-087c-41ae-b462-c30d8aa51aab___JR_B.Spot 8914_180deg.JPG,"Pepper,_bell___Bacterial_spot",2,0.792,0.721,0.571,0.564,0.979,3.15,30.505,2
+a32c2976-7ef3-4dfa-95d8-c3c056b36012___JR_B.Spot 3145_flipTB.JPG,"Pepper,_bell___Bacterial_spot",3,0.797,0.734,0.65,0.458,0.369,12.067,25.658,3
+e1a8a7b1-5e9a-4da0-a894-9d83821b0d01___NREC_B.Spot 9170.JPG,"Pepper,_bell___Bacterial_spot",2,0.846,0.792,0.567,0.635,0.98,0.0,29.843,2
+4bad40b0-af40-4deb-820c-edbcbb9ea372___NREC_B.Spot 1843.JPG,"Pepper,_bell___Bacterial_spot",1,0.87,0.796,0.849,0.83,0.998,9.383,45.361,1
+c8c24f99-957d-4711-92b5-37520cabb5d3___JR_HL 8023.JPG,"Pepper,_bell___healthy",1,0.701,0.732,0.753,0.573,1.0,1.083,39.207,1
+2a42396f-f9a9-47cc-9dd7-7149faf1e0e2___JR_HL 8544_180deg.JPG,"Pepper,_bell___healthy",1,0.713,0.711,0.791,0.8,0.983,6.583,50.607,1
+dc962f4d-1d6a-4304-8977-2925bae01f00___JR_HL 8564.JPG,"Pepper,_bell___healthy",1,0.794,0.782,0.844,0.865,1.0,3.033,48.973,1
+7d949066-dd95-4be3-bde3-7ba0f410e771___JR_HL 8226.JPG,"Pepper,_bell___healthy",1,0.715,0.72,0.761,0.613,0.983,3.717,40.344,1
+6a140ba2-7c14-4a2b-b822-e5b80302e61e___JR_HL 8605_new30degFlipLR.JPG,"Pepper,_bell___healthy",3,0.735,0.766,0.606,0.608,0.961,11.4,56.802,3
+be34960a-dd60-446d-80bd-7a01ba58baae___JR_HL 5820.JPG,"Pepper,_bell___healthy",1,0.809,0.864,0.962,0.978,1.0,0.0,43.114,1
+f61b245c-cfa1-4505-b91b-c318de0c42a7___JR_HL 8625.JPG,"Pepper,_bell___healthy",1,0.691,0.829,0.613,0.837,1.0,1.417,51.97,2
+4cff9a88-e36d-4c5a-aa11-9812ef5b063a___JR_HL 5940_flipTB.JPG,"Pepper,_bell___healthy",1,0.759,0.779,0.953,0.97,1.0,2.367,48.003,1
+b54a2105-b9a4-4665-9e34-44df46d0be5a___RS_Early.B 8507_180deg.JPG,Potato___Early_blight,2,0.558,0.786,0.33,0.758,1.0,0.667,55.624,2
+61f4f7c5-cebe-471a-9be9-b595255b7fb4___RS_Early.B 7029.JPG,Potato___Early_blight,2,0.692,0.808,0.205,0.911,1.0,4.25,54.222,2
+91a21acf-c95a-4ffc-90f2-8c64456f4032___RS_Early.B 7139_flipTB.JPG,Potato___Early_blight,2,0.663,0.785,0.193,0.872,1.0,1.267,56.686,2
+9ebf9d7d-0cfe-44f5-9126-89c70d38321a___RS_Early.B 8986.JPG,Potato___Early_blight,2,0.752,0.759,0.113,0.73,1.0,4.1,52.776,2
+c5c57ff6-cff1-4be6-a2fd-324efc139881___RS_Early.B 7450.JPG,Potato___Early_blight,3,0.69,0.593,0.566,0.152,0.505,0.85,9.679,3
+c3ce9bae-e62a-4dd9-afa0-f020c48b87cc___RS_Early.B 6704_180deg.JPG,Potato___Early_blight,2,0.63,0.748,0.107,0.542,0.995,0.033,45.282,2
+cd025ad0-9486-4ee6-b545-c9040dc4e1c7___RS_Early.B 8821_flipTB.JPG,Potato___Early_blight,2,0.608,0.682,0.753,0.444,0.987,3.883,53.862,2
+f9461507-6875-43f7-800d-502ffdb8ec05___RS_Early.B 7604_180deg.JPG,Potato___Early_blight,2,0.689,0.781,0.277,0.506,0.929,1.117,31.895,2
+df919a28-9f11-42f6-823c-15f70bf1325e___RS_LB 4936.JPG,Potato___Late_blight,1,0.709,0.81,0.832,0.863,1.0,1.117,42.023,1
+76be1a95-8bf1-468e-bc6c-f7d8fa5b7e5b___RS_LB 4758_180deg.JPG,Potato___Late_blight,2,0.555,0.686,0.515,0.569,0.997,0.533,45.723,2
+2122118e-02ee-452b-864c-adf36ed5ce9c___RS_LB 2890.JPG,Potato___Late_blight,1,0.697,0.694,0.728,0.675,0.985,0.917,39.406,1
+716325d9-fca6-46b4-8f5a-f6729c211200___RS_LB 3958_flipTB.JPG,Potato___Late_blight,2,0.679,0.788,0.196,0.799,0.998,0.0,36.25,2
+ba15e1af-3f3a-4eef-8be1-4f0a221444fd___RS_LB 2866_flipTB.JPG,Potato___Late_blight,3,0.68,0.675,0.601,0.351,0.537,2.333,24.596,3
+29d84246-f2a5-4c18-8ddc-2f2d38046ae2___RS_LB 2625.JPG,Potato___Late_blight,1,0.756,0.8,0.786,0.767,0.999,0.0,40.936,1
+a0622f86-c94d-4b59-9483-68c57dee81fa___RS_LB 4794_180deg.JPG,Potato___Late_blight,1,0.731,0.742,0.654,0.618,0.98,0.0,35.599,2
+b4e52186-de58-4c06-bbd2-2fb3dbeda13e___RS_LB 2655_flipTB.JPG,Potato___Late_blight,3,0.692,0.673,0.53,0.855,0.998,11.667,54.997,3
+b28c43f9-5844-4e9b-86bf-36bc114cae07___RS_HL 1736_newGRR.JPG,Potato___healthy,1,0.783,0.774,0.878,0.864,0.997,0.0,37.933,1
+58a98860-86d8-41e7-9f8c-cc2ca5e90012___RS_HL 1758_flipLR.JPG,Potato___healthy,1,0.795,0.784,0.899,0.891,1.0,0.0,36.823,1
+f0fdde26-78b4-46f0-9eb8-7c2a743d34aa___RS_HL 4165_180deg.JPG,Potato___healthy,1,0.703,0.843,0.941,0.957,1.0,2.383,47.389,1
+36bdc44c-96a4-40bb-86f7-63a91d706e96___RS_HL 4203_new90degFlipTB.JPG,Potato___healthy,3,0.839,0.845,0.934,0.931,0.992,14.983,48.622,3
+415ac4a2-8f16-4052-880e-1e1f208965f0___RS_HL 1884_newPixel25.JPG,Potato___healthy,2,0.714,0.797,0.347,0.81,0.913,0.05,21.158,2
+04481ca2-f94c-457e-b785-1ac05800b7ec___RS_HL 1930_newGRR.JPG,Potato___healthy,1,0.728,0.755,0.862,0.873,0.995,0.0,44.406,1
+c6abf1da-b06f-4cd2-8af6-d68be5eff6f9___RS_HL 1766.JPG,Potato___healthy,2,0.639,0.742,0.668,0.882,1.0,4.083,49.052,2
+4a08efaa-28cc-4356-8769-4002f4b299ef___RS_HL 1850_new200degFlipTB.JPG,Potato___healthy,3,0.764,0.751,0.031,0.182,0.865,10.783,29.761,3
+1de5d074-f5a0-4706-993f-9f21b3fe94fd___Mary_HL 9281_270deg.JPG,Raspberry___healthy,1,0.813,0.886,0.885,0.96,0.99,4.15,39.221,1
+cd638182-5de8-428f-a1d5-8af938f5d280___Mary_HL 9264_180deg.JPG,Raspberry___healthy,1,0.756,0.86,0.878,0.949,1.0,0.0,45.435,1
+3d9757e9-7753-4d8c-8c60-d78f4522b021___Mary_HL 6352.JPG,Raspberry___healthy,1,0.895,0.83,0.929,0.925,1.0,0.0,47.166,1
+6e1e9d62-fe33-4df9-8f02-8603c21b06a1___Mary_HL 9231_90deg.JPG,Raspberry___healthy,1,0.785,0.865,0.854,0.932,0.991,4.267,45.54,1
+e4c62575-44c8-4c43-b3b7-d0ad7f3020c5___Mary_HL 9249_new30degFlipLR.JPG,Raspberry___healthy,3,0.697,0.843,0.372,0.487,0.923,15.7,46.509,3
+2e6f50f0-c9ac-4990-bb81-46936cb62a17___Mary_HL 6402_180deg.JPG,Raspberry___healthy,1,0.89,0.824,0.899,0.893,1.0,0.1,33.968,1
+60b355c2-b031-49e3-bc98-dc5d6bd3f6b1___Mary_HL 9288_new30degFlipLR.JPG,Raspberry___healthy,2,0.756,0.859,0.266,0.371,0.936,7.417,49.245,2
+795dcd8d-4c41-4b8d-a096-500f9e28c8cc___Mary_HL 9260_newPixel25.JPG,Raspberry___healthy,2,0.682,0.813,0.535,0.903,1.0,0.0,34.39,2
+eb2541c5-361d-4c92-b94e-91ffed6ee854___RS_HL 2953.JPG,Soybean___healthy,1,0.79,0.706,0.902,0.902,1.0,0.0,35.939,1
+35130f90-6a75-45a1-880b-e19cff509206___RS_HL 6996.JPG,Soybean___healthy,1,0.846,0.713,0.956,0.956,1.0,1.833,55.763,1
+54324891-30a3-4d9f-9772-f26f8e52ec91___RS_HL 5790 1.JPG,Soybean___healthy,1,0.842,0.918,0.868,0.747,0.999,2.933,52.995,1
+e723c4f7-ab23-45e6-91b5-885055b1c9f3___RS_HL 6436.JPG,Soybean___healthy,1,0.778,0.718,0.948,0.95,1.0,7.7,62.395,1
+71185204-eff0-4bc3-914a-bb253845805a___RS_HL 5473.JPG,Soybean___healthy,1,0.909,0.583,0.919,0.919,1.0,0.0,45.349,1
+f0101ff6-d9c0-4f82-a87b-93a5aceb5336___RS_HL 5477.JPG,Soybean___healthy,1,0.915,0.737,0.968,0.969,1.0,0.717,51.868,1
+daa91624-f9bc-438b-b3a4-19bbdae8470b___RS_HL 7314.JPG,Soybean___healthy,1,0.914,0.93,0.98,0.982,1.0,0.0,47.42,1
+96262093-90f5-4d91-8aeb-cdc7785707b4___RS_HL 7551.JPG,Soybean___healthy,3,0.698,0.889,0.856,0.903,0.826,14.883,28.044,3
+0e4dde0b-6e65-41bd-9845-adb577a7ac9f___MD_Powd.M 1028_flipLR.JPG,Squash___Powdery_mildew,3,0.699,0.784,0.095,0.202,0.993,40.267,49.686,3
+f57acaa0-1608-460c-9ba9-73e990a5d60e___MD_Powd.M 0353.JPG,Squash___Powdery_mildew,3,0.693,0.74,0.176,0.796,0.973,25.667,50.749,3
+a632d983-f562-4cee-bc0b-cacfdf45227d___MD_Powd.M 0162.JPG,Squash___Powdery_mildew,3,0.599,0.628,0.472,0.66,0.955,47.2,47.978,3
+b81513cc-0e13-431b-a562-07113cf6ff1b___UMD_Powd.M 0164.JPG,Squash___Powdery_mildew,3,0.711,0.594,0.494,0.452,0.831,37.983,30.78,3
+99984d92-3b34-4ae7-bd45-e0289fc1a38b___UMD_Powd.M 9771.JPG,Squash___Powdery_mildew,3,0.648,0.913,0.016,0.759,1.0,22.083,48.456,3
+adb8bbb6-964c-4c81-b7db-713d89a4a600___UMD_Powd.M 0416.JPG,Squash___Powdery_mildew,3,0.623,0.763,0.444,0.396,0.847,50.017,43.889,3
+c9b99bac-595d-4498-9dc3-a8d389efd885___MD_Powd.M 1065.JPG,Squash___Powdery_mildew,3,0.634,0.677,0.409,0.634,0.855,16.5,50.549,3
+16dc263d-b3db-4fca-8792-4db94ff31e41___UMD_Powd.M 0701.JPG,Squash___Powdery_mildew,3,0.663,0.642,0.064,0.105,0.586,16.217,20.171,3
+09b06335-77d4-465f-936e-7de45a4c2ae1___RS_L.Scorch 0841_flipLR.JPG,Strawberry___Leaf_scorch,3,0.722,0.639,0.74,0.475,0.97,39.117,62.656,3
+247833b5-b655-418d-80c8-72fa4889dc5b___RS_L.Scorch 9978.JPG,Strawberry___Leaf_scorch,3,0.707,0.604,0.56,0.383,0.558,39.983,52.652,3
+ba16fdd7-f417-41ad-96ad-0381971cf9a6___RS_L.Scorch 1330.JPG,Strawberry___Leaf_scorch,1,0.734,0.812,0.712,0.874,0.997,0.0,44.234,1
+37879b6f-99d6-461b-ba39-e089ab179fdc___RS_L.Scorch 1261.JPG,Strawberry___Leaf_scorch,1,0.714,0.823,0.642,0.923,1.0,0.0,52.913,2
+b3eb2228-f38e-4472-a39e-3e39917bac3d___RS_L.Scorch 9982.JPG,Strawberry___Leaf_scorch,3,0.736,0.698,0.702,0.659,0.908,46.4,56.172,3
+f56f16d2-9ed0-4cbf-9518-2e64091141cb___RS_L.Scorch 1508_flipLR.JPG,Strawberry___Leaf_scorch,3,0.763,0.879,0.871,0.222,1.0,10.15,15.295,3
+a97a6633-d0b0-4181-8ac1-c947f55644b2___RS_L.Scorch 1326.JPG,Strawberry___Leaf_scorch,2,0.62,0.859,0.254,0.958,1.0,0.0,56.409,2
+23359934-8e33-43b5-882b-40c78f59d830___RS_L.Scorch 9918_flipLR.JPG,Strawberry___Leaf_scorch,3,0.793,0.81,0.576,0.738,0.975,17.817,34.677,3
+70eb8903-7f36-4787-85db-9c12dc2e02be___RS_HL 2100_new30degFlipLR.JPG,Strawberry___healthy,3,0.649,0.737,0.279,0.521,0.942,14.8,57.564,3
+1cb7b773-be85-4c1e-88b7-9a598089ebb0___RS_HL 1805_new30degFlipLR.JPG,Strawberry___healthy,2,0.71,0.794,0.404,0.497,0.946,6.817,49.603,2
+6b9a9dd2-74ed-4955-9ef5-68c0a5df09b2___RS_HL 2178_new30degFlipLR.JPG,Strawberry___healthy,2,0.75,0.76,0.44,0.476,0.953,9.25,52.014,2
+f1f33667-e880-4980-92ba-2401f2954ba8___RS_HL 1690.JPG,Strawberry___healthy,2,0.643,0.784,0.625,0.845,1.0,0.0,44.736,2
+23d4fa2f-a966-44a3-a597-b39a79618378___RS_HL 1744_90deg.JPG,Strawberry___healthy,1,0.806,0.882,0.924,0.951,0.991,4.267,45.154,1
+0b444634-b557-45f4-a68a-8e9e38cd6683___RS_HL 2184_270deg.JPG,Strawberry___healthy,1,0.744,0.798,0.784,0.457,0.964,4.267,31.145,1
+aba13626-8beb-474e-b609-300e7eb4e896___RS_HL 1905_90deg.JPG,Strawberry___healthy,1,0.739,0.812,0.784,0.781,0.986,4.267,39.81,1
+06d4ec77-12ef-47ed-ab37-b181fb1b03bf___RS_HL 4647_180deg.JPG,Strawberry___healthy,1,0.736,0.774,0.705,0.665,0.984,0.0,39.458,1
+405e216e-b24f-4688-bd81-09de831eaada___UF.GRC_BS_Lab Leaf 0329.JPG,Tomato___Bacterial_spot,2,0.766,0.94,0.227,0.522,1.0,0.0,28.299,2
+3cd5b241-d5f1-4ae7-92ea-447613dac98a___GCREC_Bact.Sp 3561.JPG,Tomato___Bacterial_spot,1,0.727,0.807,0.748,0.773,1.0,0.0,49.063,1
+e18a4fc4-f116-4eef-8cca-d62a2798ac8d___GCREC_Bact.Sp 3743.JPG,Tomato___Bacterial_spot,1,0.683,0.729,0.729,0.843,1.0,0.467,49.872,1
+283cf780-42c2-42ed-860a-29e7991c4e57___GCREC_Bact.Sp 5730.JPG,Tomato___Bacterial_spot,1,0.833,0.788,0.881,0.867,0.998,0.0,49.733,1
+97135339-c428-4fec-9805-718d83ef7fcf___GCREC_Bact.Sp 5722.JPG,Tomato___Bacterial_spot,1,0.857,0.855,0.857,0.705,1.0,0.0,38.148,1
+44bbe861-f71e-4d67-af18-55866e37f5f6___GCREC_Bact.Sp 3129.JPG,Tomato___Bacterial_spot,1,0.798,0.796,0.912,0.912,1.0,2.45,57.004,1
+e4404de4-7958-4e77-a7ed-664dd0d7f2c9___GCREC_Bact.Sp 5906.JPG,Tomato___Bacterial_spot,1,0.838,0.902,0.918,0.6,1.0,0.0,49.976,1
+f7964e03-1651-4a72-8f28-be8626513372___GCREC_Bact.Sp 5591.JPG,Tomato___Bacterial_spot,1,0.765,0.864,0.759,0.567,1.0,0.233,38.986,1
+18ec9a60-a4e3-4dd7-805f-fe9eaf526c2f___RS_Erly.B 8405.JPG,Tomato___Early_blight,3,0.736,0.754,0.423,0.702,0.991,20.517,55.321,3
+ff83852f-65e0-4981-8c66-6b86d34b32c2___RS_Erly.B 9582_180deg.JPG,Tomato___Early_blight,1,0.751,0.787,0.724,0.568,0.999,5.483,36.765,1
+c684e255-de5d-4905-b934-962180be33cb___RS_Erly.B 7353.JPG,Tomato___Early_blight,1,0.756,0.871,0.735,0.778,1.0,0.0,35.159,1
+07502bbb-1733-4d49-a3dc-557b1d4391da___RS_Erly.B 7516.JPG,Tomato___Early_blight,1,0.815,0.888,0.896,0.878,1.0,1.1,44.345,1
+a86f36c6-2089-4367-ba3e-5b7c8b3c0084___RS_Erly.B 7492_flipTB.JPG,Tomato___Early_blight,1,0.762,0.85,0.788,0.577,1.0,0.0,40.932,1
+84fe717f-2161-43c2-ad2f-ee2678a31e9f___RS_Erly.B 9416_flipTB.JPG,Tomato___Early_blight,2,0.678,0.804,0.567,0.53,0.995,0.0,37.743,2
+b857a91a-c6e2-4d47-a025-5a5c3254e0a2___RS_Erly.B 7662_flipTB.JPG,Tomato___Early_blight,2,0.751,0.793,0.43,0.498,1.0,5.683,45.013,2
+25430871-a740-4dd8-a836-bf2d52eb233b___RS_Erly.B 6420_180deg.JPG,Tomato___Early_blight,1,0.772,0.866,0.681,0.744,0.998,0.0,31.464,2
+e615ae3b-8526-42f0-9c0f-2678e0a50ad4___RS_Late.B 6145.JPG,Tomato___Late_blight,3,0.772,0.671,0.568,0.271,0.795,6.317,24.884,3
+3de67462-9ae4-455d-8d0d-a625c92c7120___RS_Late.B 5148_flipLR.JPG,Tomato___Late_blight,2,0.811,0.811,0.586,0.581,0.985,1.35,26.968,2
+0d7a68e9-3df0-4ef8-88f7-c0a202725c5d___RS_Late.B 6787.JPG,Tomato___Late_blight,3,0.688,0.569,0.602,0.585,0.743,19.917,41.425,3
+33056b9e-f204-4e90-8525-2ebfad803b5c___RS_Late.B 5388.JPG,Tomato___Late_blight,2,0.774,0.772,0.525,0.758,0.974,0.0,47.443,2
+0d98a9eb-18e7-47e7-9010-196189bae113___RS_Late.B 5047.JPG,Tomato___Late_blight,2,0.762,0.706,0.575,0.505,0.853,2.067,28.481,2
+a6c7381f-fcfb-484b-a2f5-a435b66f5ea2___GHLB2 Leaf 112.JPG,Tomato___Late_blight,2,0.56,0.76,0.471,0.8,0.992,4.083,48.975,2
+4ab57bec-a118-4686-a9dd-f6ee3cdd0c55___GHLB2 Leaf 8695.JPG,Tomato___Late_blight,2,0.722,0.854,0.316,0.419,1.0,0.0,21.7,2
+577ab276-9a57-4b43-ae4f-85f723ed10bc___RS_Late.B 6870.JPG,Tomato___Late_blight,3,0.746,0.767,0.618,0.404,0.718,18.583,29.631,3
+921e0584-a414-4905-99e6-6d37a49427bc___Crnl_L.Mold 8941.JPG,Tomato___Leaf_Mold,2,0.632,0.711,0.114,0.422,0.945,0.4,28.629,2
+4541dd58-9728-4492-8729-f4f174d774ac___Crnl_L.Mold 8992_flipTB.JPG,Tomato___Leaf_Mold,3,0.722,0.599,0.172,0.231,0.928,45.133,46.169,3
+156f079b-411f-41db-8023-fa934de343f9___Crnl_L.Mold 7039.JPG,Tomato___Leaf_Mold,1,0.739,0.852,0.642,0.352,0.999,0.0,17.686,2
+a4baece0-0e73-4b2f-a434-007c429fb5f9___Crnl_L.Mold 6672_flipTB.JPG,Tomato___Leaf_Mold,1,0.84,0.782,0.894,0.907,0.996,1.583,37.372,1
+9857cf56-43fc-40a6-8108-e6a9c10a8ef2___Crnl_L.Mold 9141.JPG,Tomato___Leaf_Mold,2,0.719,0.698,0.171,0.296,0.94,0.233,24.785,2
+0c0debed-e807-4236-a2e3-d9b72f54367f___Crnl_L.Mold 6899.JPG,Tomato___Leaf_Mold,2,0.735,0.922,0.6,0.498,1.0,0.0,28.377,2
+b8a6d929-d111-4484-b533-ff68ed3304ca___Crnl_L.Mold 6592.JPG,Tomato___Leaf_Mold,2,0.788,0.86,0.464,0.714,0.974,0.0,21.446,2
+27867fa8-39ae-4480-936e-1adcdceeb7fb___Crnl_L.Mold 6924_180deg.JPG,Tomato___Leaf_Mold,1,0.763,0.897,0.688,0.768,1.0,0.0,31.635,2
+caf6c8f5-e7ba-4d75-98ef-9b2c0dffcaaa___Keller.St_CG 1792.JPG,Tomato___Septoria_leaf_spot,2,0.56,0.932,0.336,0.349,1.0,0.0,19.563,2
+5a79c447-4d9d-4daf-81a6-c23a00480a93___Matt.S_CG 2473.JPG,Tomato___Septoria_leaf_spot,2,0.696,0.799,0.276,0.866,0.999,0.0,36.089,2
+2cc68344-7fcb-49cc-8a1b-5c956696dd4c___JR_Sept.L.S 2673_180deg.JPG,Tomato___Septoria_leaf_spot,2,0.804,0.752,0.375,0.744,0.918,0.883,40.947,2
+390beb09-e4d3-4248-bb1c-7cefbd45a8d1___Matt.S_CG 6507.JPG,Tomato___Septoria_leaf_spot,1,0.829,0.891,0.858,0.573,1.0,0.0,36.45,1
+4ff7ff02-1fce-4994-bea2-bc46bd60fa4f___JR_Sept.L.S 8501_180deg.JPG,Tomato___Septoria_leaf_spot,1,0.707,0.921,0.694,0.953,1.0,0.0,13.739,2
+d5374042-be67-428a-9ba3-ce2399f8b9d4___JR_Sept.L.S 2533.JPG,Tomato___Septoria_leaf_spot,2,0.652,0.678,0.154,0.86,0.997,2.067,33.916,2
+79962b01-7b73-4486-b91e-a7ec898b8156___Matt.S_CG 6635.JPG,Tomato___Septoria_leaf_spot,1,0.813,0.868,0.685,0.635,1.0,0.0,36.745,2
+fc5b136a-102b-454a-8200-ddf85b2a0e52___Keller.St_CG 1898.JPG,Tomato___Septoria_leaf_spot,2,0.544,0.884,0.251,0.378,1.0,0.0,27.669,2
+92eebea8-e369-4cf4-ada9-5b4814be3566___Com.G_SpM_FL 8901.JPG,Tomato___Spider_mites Two-spotted_spider_mite,3,0.813,0.749,0.67,0.447,0.416,3.683,26.398,3
+27e28fcf-bc3e-4c0e-96c7-a0d845064dc2___Com.G_SpM_FL 8478.JPG,Tomato___Spider_mites Two-spotted_spider_mite,3,0.804,0.685,0.604,0.555,0.516,2.767,23.573,3
+c6efd73a-20e6-4c01-888e-5ae96c5a29f5___Com.G_SpM_FL 1339.JPG,Tomato___Spider_mites Two-spotted_spider_mite,2,0.725,0.8,0.242,0.394,0.998,0.0,30.711,2
+bd66c86d-1aa8-47ae-bfa6-8bf8dcd2c146___Com.G_SpM_FL 1167.JPG,Tomato___Spider_mites Two-spotted_spider_mite,2,0.6,0.857,0.361,0.489,1.0,0.633,31.526,2
+2e41a813-b5a7-4501-bec2-e0f2db310a2c___Com.G_SpM_FL 9570.JPG,Tomato___Spider_mites Two-spotted_spider_mite,1,0.776,0.867,0.926,0.964,1.0,0.0,37.062,1
+e18529e1-ae21-43c7-95f9-82df36a4b20f___Com.G_SpM_FL 1259.JPG,Tomato___Spider_mites Two-spotted_spider_mite,2,0.598,0.822,0.382,0.332,1.0,0.0,22.998,2
+0cc75e2e-9e6f-4b8e-b564-3840c9ecff58___Com.G_SpM_FL 1442_180deg.JPG,Tomato___Spider_mites Two-spotted_spider_mite,2,0.583,0.776,0.411,0.197,0.967,0.0,19.995,2
+e8a2e430-adae-4b78-bcfd-5652c59ad548___Com.G_SpM_FL 1758.JPG,Tomato___Spider_mites Two-spotted_spider_mite,2,0.71,0.744,0.455,0.281,0.995,0.0,38.57,2
+a05ea14e-6cbf-44cf-bd89-609159123d0f___Com.G_TgS_FL 7950.JPG,Tomato___Target_Spot,1,0.721,0.697,0.614,0.317,0.86,0.15,18.758,2
+1c980f09-7e37-4e57-96e5-d18783691134___Com.G_TgS_FL 9908_180deg.JPG,Tomato___Target_Spot,2,0.784,0.68,0.411,0.323,0.817,0.0,13.042,2
+eb5f70b3-7bc8-4b2b-b2c3-26389d0ffc2f___Com.G_TgS_FL 0044.JPG,Tomato___Target_Spot,1,0.719,0.744,0.779,0.622,0.999,0.0,42.986,1
+1cc31c92-0fbd-488a-b0a2-ef25f985bf13___Com.G_TgS_FL 9840_180deg.JPG,Tomato___Target_Spot,2,0.731,0.766,0.582,0.524,1.0,0.0,34.476,2
+451eda81-5134-4d6c-aa4b-2d0ce9341159___Com.G_TgS_FL 7898.JPG,Tomato___Target_Spot,1,0.75,0.699,0.752,0.685,0.989,7.6,39.99,1
+6bd6afac-37d6-472f-8ce1-018ec3dbd936___Com.G_TgS_FL 0667_new30degFlipLR.JPG,Tomato___Target_Spot,3,0.777,0.624,0.222,0.267,0.788,11.5,31.697,3
+2e7e9a37-1d74-4435-94a6-6ac966447e75___Com.G_TgS_FL 9853_new30degFlipLR.JPG,Tomato___Target_Spot,3,0.694,0.685,0.0,0.0,0.269,7.217,3.252,3
+11c87e02-aabb-4e93-a320-bae6cd4b0fb8___Com.G_TgS_FL 9842.JPG,Tomato___Target_Spot,1,0.757,0.798,0.747,0.584,1.0,0.0,34.055,1
+d44dcabc-e93d-4a7d-ace4-37bb669bc7e1___UF.GRC_YLCV_Lab 02614.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,2,0.656,0.872,0.467,0.822,1.0,0.0,50.653,2
+fbf89181-66de-4c0b-a1cc-251fb2c53a48___YLCV_NREC 2394.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,1,0.729,0.784,0.708,0.561,1.0,0.0,36.948,1
+c13c64f7-40d2-43d2-b78e-43ba0a25727d___YLCV_GCREC 5296.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,2,0.825,0.849,0.441,0.628,0.999,0.0,26.317,2
+dd14aa89-ee18-48e2-adcf-4f82777db8da___YLCV_GCREC 2770.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,1,0.76,0.888,0.836,0.656,1.0,0.0,46.31,1
+9608690c-4192-4843-a30f-a79b8e267743___YLCV_NREC 0193.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,1,0.764,0.809,0.69,0.732,0.986,0.0,33.798,2
+11061195-ce9c-4171-819d-663342a186e8___YLCV_NREC 0257.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,1,0.746,0.857,0.798,0.41,1.0,0.0,24.664,1
+c55a139e-b525-4ea8-adad-1d4d18f432bd___YLCV_NREC 2218.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,1,0.77,0.833,0.647,0.399,0.997,0.0,23.466,2
+deb42f2f-ad95-4da7-8568-2e3c55a31c96___UF.GRC_YLCV_Lab 01397.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,2,0.752,0.91,0.51,0.654,1.0,0.0,44.891,2
+739ccd84-1026-4871-8f5c-2320c205fe2e___PSU_CG 2399_180deg.JPG,Tomato___Tomato_mosaic_virus,1,0.712,0.772,0.683,0.852,0.994,0.0,26.768,2
+a2bc1805-22f6-48a3-8718-cd2b0ed9eb16___PSU_CG 2225.JPG,Tomato___Tomato_mosaic_virus,2,0.655,0.779,0.322,0.384,1.0,1.217,24.87,2
+914cd3f1-e98f-49b3-8223-0a55870362b0___PSU_CG 2259_new30degFlipLR.JPG,Tomato___Tomato_mosaic_virus,2,0.777,0.805,0.187,0.229,0.87,8.417,24.191,2
+5d3eb639-b75e-4929-9a6a-4b89856b2345___PSU_CG 2273_newPixel25.JPG,Tomato___Tomato_mosaic_virus,2,0.775,0.78,0.59,0.859,0.999,0.0,24.892,2
+b9c75527-d6ee-4c24-b293-9618b378157c___PSU_CG 2130_90deg.JPG,Tomato___Tomato_mosaic_virus,2,0.574,0.696,0.324,0.404,0.967,4.267,14.345,2
+67d62cc2-ac5e-4ad7-91a0-c097163df653___PSU_CG 2048_180deg.JPG,Tomato___Tomato_mosaic_virus,2,0.484,0.832,0.24,0.807,0.971,0.0,22.292,2
+6e36029a-1c73-49e6-80b9-5e5cf12f43c1___PSU_CG 2217_new30degFlipLR.JPG,Tomato___Tomato_mosaic_virus,3,0.777,0.711,0.117,0.117,0.768,7.567,14.052,3
+f6c12455-7dce-40b2-9d33-36bff9caa4ea___PSU_CG 2192_new30degFlipLR.JPG,Tomato___Tomato_mosaic_virus,3,0.79,0.674,0.087,0.129,0.48,8.617,17.221,3
+8834fdc1-4946-4cfc-a569-80eabaeebe1d___RS_HL 0154.JPG,Tomato___healthy,3,0.741,0.648,0.551,0.253,0.479,0.817,12.82,3
+2a7e1698-9747-40e6-994e-5d4dc1d2b239___RS_HL 0279.JPG,Tomato___healthy,3,0.756,0.702,0.69,0.373,0.506,1.833,18.404,3
+1ad550a2-113e-440c-919d-85dff2f4de38___RS_HL 0331.JPG,Tomato___healthy,2,0.702,0.697,0.538,0.416,0.933,3.817,21.288,2
+62e5933a-1405-4f56-b5c6-3bb6996465f5___RS_HL 0378.JPG,Tomato___healthy,2,0.688,0.735,0.588,0.183,0.907,0.2,16.27,2
+93d00575-64fc-4cb6-93c1-91be73a0b90c___GH_HL Leaf 313.1.JPG,Tomato___healthy,2,0.674,0.914,0.14,0.451,1.0,0.0,34.793,2
+025bc454-a051-42d2-b547-316f8cc3dc55___GH_HL Leaf 297.JPG,Tomato___healthy,2,0.696,0.893,0.097,0.562,1.0,0.033,46.991,2
+45a1e50e-e504-40a6-8378-39c28914ca43___GH_HL Leaf 448.1.JPG,Tomato___healthy,2,0.742,0.897,0.032,0.541,1.0,0.0,40.417,2
+adb15e56-fb9c-4b1f-aae1-4ec8bedecd1b___RS_HL 9712.JPG,Tomato___healthy,3,0.579,0.616,0.51,0.115,0.589,1.167,6.761,3
